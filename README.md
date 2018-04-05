@@ -1,2 +1,2 @@
 # spring-cloud-config
-同意管理微服务配置
+统一管理微服务配置
